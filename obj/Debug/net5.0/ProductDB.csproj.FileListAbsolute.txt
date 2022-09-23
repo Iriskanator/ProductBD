@@ -1,0 +1,5 @@
+C:\Users\Светлана\source\repos\ProductDB\ProductDB\obj\Debug\net5.0\ProductDB.csproj.AssemblyReference.cache
+C:\Users\Светлана\source\repos\ProductDB\ProductDB\obj\Debug\net5.0\ProductDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Светлана\source\repos\ProductDB\ProductDB\obj\Debug\net5.0\ProductDB.AssemblyInfoInputs.cache
+C:\Users\Светлана\source\repos\ProductDB\ProductDB\obj\Debug\net5.0\ProductDB.AssemblyInfo.cs
+C:\Users\Светлана\source\repos\ProductDB\ProductDB\obj\Debug\net5.0\ProductDB.csproj.CoreCompileInputs.cache
