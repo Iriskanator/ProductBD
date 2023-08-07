@@ -20,8 +20,8 @@ namespace ProductDB
 {
     class Program
     {
-        private static string connectionString = ConfigurationManager.ConnectionStrings["ProductsDB"].ConnectionString;
-
+        private static string connectionString = ConfigurationManager.ConnectionStrings["ProductsDB"].ConnectionString.Replace("%FileToDb%", Path.GetFullPath("ProductsDB.mdf"));
+        //Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Светлана\\source\\repos\\ProductDB\\ProductDB\\ProductsDB.mdf;Integrated Security=True
         private static SqlConnection sqlConnection = null;
         static void Main(string[] args)
         {
